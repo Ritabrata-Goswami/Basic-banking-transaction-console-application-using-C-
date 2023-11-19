@@ -1,0 +1,8 @@
+B:\JH Practice\PROGRAMMING\HDFC BANK\Hdfc\Hdfc\bin\Debug\Hdfc.exe.config
+B:\JH Practice\PROGRAMMING\HDFC BANK\Hdfc\Hdfc\bin\Debug\Hdfc.exe
+B:\JH Practice\PROGRAMMING\HDFC BANK\Hdfc\Hdfc\bin\Debug\Hdfc.pdb
+B:\JH Practice\PROGRAMMING\HDFC BANK\Hdfc\Hdfc\obj\Debug\Hdfc.csproj.AssemblyReference.cache
+B:\JH Practice\PROGRAMMING\HDFC BANK\Hdfc\Hdfc\obj\Debug\Hdfc.csproj.SuggestedBindingRedirects.cache
+B:\JH Practice\PROGRAMMING\HDFC BANK\Hdfc\Hdfc\obj\Debug\Hdfc.csproj.CoreCompileInputs.cache
+B:\JH Practice\PROGRAMMING\HDFC BANK\Hdfc\Hdfc\obj\Debug\Hdfc.exe
+B:\JH Practice\PROGRAMMING\HDFC BANK\Hdfc\Hdfc\obj\Debug\Hdfc.pdb
