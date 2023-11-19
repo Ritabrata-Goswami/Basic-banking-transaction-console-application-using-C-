@@ -18,7 +18,7 @@ namespace Hdfc
         static void Main(string[] args)
         {
            
-            string connection = "Server=GOPAL_SASMAL\\SQLEXPRESS;Database=HDFC_BANK;Trusted_Connection=True;MultipleActiveResultSets=True;";
+            string connection = "Server=ABC\\SQLEXPRESS;Database=HDFC_BANK;Trusted_Connection=True;MultipleActiveResultSets=True;";
             SqlConnection con = new SqlConnection(connection);
             con.Open();
 
